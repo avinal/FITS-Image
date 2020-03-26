@@ -1,5 +1,6 @@
 # FitsImage
 A small program to extract images from FITS file using Boost.GIL and CFITSIO.
+*Works Best with BITPIX = 8, 16 and 32.*
 
 # How to build
 1. This program uses conan as package manager make sure to config conan before building. 
