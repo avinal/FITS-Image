@@ -1,8 +1,13 @@
 # FitsImage
 A small program to extract images from FITS file using Boost.GIL and CFITSIO.
-*Works Best with BITPIX = 8, 16 and 32. and NAXIS = 2 *
+*Works Best with BITPIX = 8, 16 and 32 and NAXIS = 2.*
 
-# How to build
+# Running the program
+Directly grab the latest release from [Releases](https://github.com/avinal/FitsImage/releases) section for Windows.
+
+# How to build 
+*(Currnetly the conan file and cfitsio libraries included are configured for Windows 64 bits. Make necessary changes
+in Cmake config when using on linux.)*
 1. This program uses conan as package manager make sure to config conan before building. 
    see [here](https://docs.conan.io/en/latest/getting_started.html) for more about conan.
 2. To config conan on either machine follow these steps
