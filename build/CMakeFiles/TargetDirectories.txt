@@ -1,0 +1,3 @@
+Z:/VSProjects/FitsImage/build/CMakeFiles/FitsImage.dir
+Z:/VSProjects/FitsImage/build/CMakeFiles/edit_cache.dir
+Z:/VSProjects/FitsImage/build/CMakeFiles/rebuild_cache.dir

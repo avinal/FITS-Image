@@ -1,0 +1,13 @@
+[
+{
+  "directory": "Z:/VSProjects/FitsImage/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1425~1.286\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IC:\\.conan\\b07b6a\\1\\include -IC:\\Users\\Avinal\\.conan\\data\\libjpeg\\9c\\bincrafters\\stable\\package\\3fb49604f9c2f729b85ba3115852006824e72cab\\include -IC:\\Users\\Avinal\\.conan\\data\\zlib\\1.2.11\\_\\_\\package\\3fb49604f9c2f729b85ba3115852006824e72cab\\include -IC:\\Users\\Avinal\\.conan\\data\\bzip2\\1.0.8\\_\\_\\package\\d16a91eadaaf5829b928b12d2f836ff7680d3df5\\include -I..\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc   /MD /O2 /Ob2 /DNDEBUG    -DBOOST_ALL_NO_LIB /FoCMakeFiles\\FitsImage.dir\\src\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c Z:\\VSProjects\\FitsImage\\src\\main.cpp",
+  "file": "Z:/VSProjects/FitsImage/src/main.cpp"
+},
+
+{
+  "directory": "Z:/VSProjects/FitsImage/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1425~1.286\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IC:\\.conan\\b07b6a\\1\\include -IC:\\Users\\Avinal\\.conan\\data\\libjpeg\\9c\\bincrafters\\stable\\package\\3fb49604f9c2f729b85ba3115852006824e72cab\\include -IC:\\Users\\Avinal\\.conan\\data\\zlib\\1.2.11\\_\\_\\package\\3fb49604f9c2f729b85ba3115852006824e72cab\\include -IC:\\Users\\Avinal\\.conan\\data\\bzip2\\1.0.8\\_\\_\\package\\d16a91eadaaf5829b928b12d2f836ff7680d3df5\\include -I..\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc   /MD /O2 /Ob2 /DNDEBUG    -DBOOST_ALL_NO_LIB /FoCMakeFiles\\FitsImage.dir\\src\\FitsImage.cpp.obj /FdTARGET_COMPILE_PDB /FS -c Z:\\VSProjects\\FitsImage\\src\\FitsImage.cpp",
+  "file": "Z:/VSProjects/FitsImage/src/FitsImage.cpp"
+}
+]
