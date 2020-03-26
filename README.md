@@ -32,6 +32,6 @@ A small program to extract images from FITS file using Boost.GIL and CFITSIO.
 ## Example Images
 1. ![Eagle Nebula ](/image/18.jpeg)
 
-2. ![Sample 15](/images/15.jpeg)
+2. ![Sample 15](/image/15.jpeg)
 
 
